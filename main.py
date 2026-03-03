@@ -1,5 +1,6 @@
 def gday_australia():
-    print("G'day Australia!")
+    for _ in range(10):
+        print("G'day Australia!")
 
 
 if __name__ == "__main__":
