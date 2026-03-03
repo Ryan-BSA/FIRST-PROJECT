@@ -18,6 +18,9 @@ env/
 .vscode/
 .idea/
 
+# Batch run output folders
+batch run */
+
 # OS
 .DS_Store
 Thumbs.db
